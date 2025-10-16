@@ -1,4 +1,4 @@
-package davidebraghi.U5_W2_D3_Davide_Braghi.exceptions;
+package davidebraghi.U5_W2_D4_Davide_Braghi.exceptions;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException(String message) {

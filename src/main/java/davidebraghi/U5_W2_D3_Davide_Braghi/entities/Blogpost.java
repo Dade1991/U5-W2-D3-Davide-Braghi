@@ -1,4 +1,4 @@
-package davidebraghi.U5_W2_D3_Davide_Braghi.entities;
+package davidebraghi.U5_W2_D4_Davide_Braghi.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
